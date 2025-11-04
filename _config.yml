@@ -1,0 +1,14 @@
+title: "轻量极简博客"
+description: "Powered by GitHub Pages + Jekyll (minima)"
+theme: minima
+lang: zh-CN
+author: "mgy583"
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 让导航显示“关于”
+header_pages:
+  - about.md
