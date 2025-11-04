@@ -1,5 +1,5 @@
 ---
-layout: home
+# layout: home
 title: Welcome to My GitHub Pages Site
 ---
 
