@@ -2,7 +2,7 @@
 layout: post
 title: 关于rust中shadowing的一些实现原理 
 date: 2025-11-05 03:24:00 +0800
-categories: [随笔]
+categories: [学习思考]
 ---
 # 何为 shadowing
 
