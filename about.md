@@ -1,3 +1,9 @@
+---
+layout: page
+title: 关于
+permalink: /about/
+---
+
 ## 关于我
 
 一名学生，啥都在学习

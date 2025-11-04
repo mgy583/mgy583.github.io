@@ -1,6 +1,6 @@
 ---
 # layout: home
-title: Welcome to My GitHub Pages Site
+title: 欢迎来到我的blog
 ---
 
 记录编程学习与开发实践
