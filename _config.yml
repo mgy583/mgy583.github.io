@@ -1,6 +1,6 @@
 title: "mgy583博客"
-description: "Powered by GitHub Pages + Jekyll (minima)"
-theme: jekyll-theme-primer
+description: "Powered by GitHub Pages + Jekyll"
+theme: minima
 lang: zh-CN
 author: "mgy583"
 show_excerpts: true
